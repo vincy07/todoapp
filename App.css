@@ -1,0 +1,46 @@
+.App {
+  text-align: center;
+  width: 100%;
+  height: 100vh;
+  background:#e1b382;
+}
+.header{
+  width: 40%;
+  background:#12343b;
+  padding: 30px;
+  margin-left: 28%;
+  border-radius: 15px;
+  border: none;
+  box-shadow: 3px 6px 40px #000;
+  
+  }
+  h4{
+    text-align: center;
+    color: black;
+    font-weight: bolder;
+  }
+  .textfield{
+    display: flex;
+    flex-direction: row;
+    margin: 20px;
+    width: 70%;
+    background: #ccc;
+  }
+  .btn{
+    width: 30%;
+    background-color: transparent;
+    color: aliceblue;
+    padding: 10px;
+    border-radius: 15px;
+    font-weight: bold;
+    cursor: pointer;
+  }
+    .list{
+      margin-top: 30px !important;
+    }
+    .li{
+      margin-bottom: 15px;
+      margin-left: -12px;
+    }
+    
+  
